@@ -1,5 +1,5 @@
 ## CV
-![photo](/img/my_photo.jpg "Моё фото")
+<img src="img/my_photo.jpg" width="75%" height="75%" />
 
 ### Voitov Vladislav, 19 y.o
 
