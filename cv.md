@@ -3,10 +3,10 @@
 
 ### Voitov Vladislav, 19 y.o
 
-[Telegram](адрес "https://t.me/dobrihlopez")
+[Telegram](https://t.me/dobrihlopez "link")
 
 
-[Vkontakte](адрес "https://vk.com/dobrihlopez")
+[Vkontakte](https://vk.com/dobrihlopez "link")
 
 dobrihlopez@gmail.com
 
@@ -34,13 +34,13 @@ I'm passionate about android apps development. I started my programming journey 
 Spoken languages: Belarusian (native), russian (native)
 #### Projects
 
-So far I've completed a couple of projects. Here is a list of the most exciting ones. Feel free to visit my github at [GitHub](адрес "https://github.com/VladislavDobrihlopez") 
+So far I've completed a couple of projects. Here is a list of the most exciting ones. Feel free to visit my github at [GitHub]( https://github.com/VladislavDobrihlopez "link") 
 
   Проекты   | Стек    | Ссылка  |
 ------------|:-------:|:-------:|
-VK mobile client|Jetpack compose, Kotlin flows + coroutines,  Dagger2, Room, Retrofit , Picasso,  MVVM   |[github]("https://github.com/VladislavDobrihlopez/VkNewsClient/tree/develop") 
-Diabetes diary |Jetpack compose, Kotlin flows + coroutines,  Hilt, Mongo Db Atlas Realm, Retrofit , Coil, MVI, Multi module architecture|[github](адрес "https://github.com/VladislavDobrihlopez/YourDiabetesDiary/tree/develop") 
-Welding control system| Android View, RxJava2, Dagger2, Room, Retrofit, MVVM| [github](адрес "https://github.com/VladislavDobrihlopez/WeldingStartup") 
+VK mobile client|Jetpack compose, Kotlin flows + coroutines,  Dagger2, Room, Retrofit , Picasso,  MVVM   |[github](https://github.com/VladislavDobrihlopez/VkNewsClient/tree/develop "link") 
+Diabetes diary |Jetpack compose, Kotlin flows + coroutines,  Hilt, Mongo Db Atlas Realm, Retrofit , Coil, MVI, Multi module architecture|[github](https://github.com/VladislavDobrihlopez/YourDiabetesDiary/tree/develop "link") 
+Welding control system| Android View, RxJava2, Dagger2, Room, Retrofit, MVVM| [github]( https://github.com/VladislavDobrihlopez/WeldingStartup "link") 
 
 #### Education
 
@@ -59,7 +59,7 @@ __Cources and trainings__:
 
 
 __Code example:__
-```
+```kotlin
 private suspend fun retrieveFeedData(): FeedResponseResult {
         val placeToStartLoadingFrom = nextPostFrom
 
