@@ -1,2 +1,2 @@
 # CurriculumVitae
-ИЭФ ПИР-212 Войтов Владислав
+https://VladislavDobrihlopez.github.io/CurriculumVitae/cv
